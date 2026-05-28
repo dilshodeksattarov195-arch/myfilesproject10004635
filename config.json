@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdonnect",
+        "uuid": 37844775,
+        "checksum": "6zf16h"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
